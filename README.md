@@ -16,3 +16,9 @@ when user clicks on 'Forgot password ?'
 
 ![screenshot_20190303-184237](https://user-images.githubusercontent.com/26687042/53695748-68689400-3de5-11e9-9f7f-66c8d1c4a3d6.png)
 
+You need to instal all the node mudules for react native App:
+commands are following : 
+
+## npx create-react-app myApp
+## cd myApp
+## npm start
